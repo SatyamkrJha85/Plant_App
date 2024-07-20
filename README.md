@@ -36,7 +36,7 @@ To get a local copy up and running follow these simple steps:
 
 1. **Clone the repo**
     ```sh
-    git clone git@github.com:username/planet-finder.git
+    git clone(https://github.com/SatyamkrJha85/Plant_App).git
     ```
 2. **Open the project in Android Studio**
 3. **Build the project** to download dependencies and configure the project.
